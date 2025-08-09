@@ -1,2 +1,2 @@
-# Virus.py
+# Virus.exe
 Virus
